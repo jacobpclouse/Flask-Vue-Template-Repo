@@ -13,6 +13,10 @@ python3 -m venv venvName
 3) Install Packages inside it 
 python -m pip install <package-name>
 
+  (for flask demo:  
+    pip install flask-cors Flask
+    pip install -r requirements.txt
+  )
 
 4) Deactivate Virtual Envir.
 deactivate
